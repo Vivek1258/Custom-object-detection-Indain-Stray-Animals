@@ -1,0 +1,11 @@
+
+
+
+train: ../train_data/images/train/  
+val: ../train_data/images/val/  
+
+# number of classes
+nc: 2
+
+# class names
+names: [  'dog', 'cow' ]
