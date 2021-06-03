@@ -1,6 +1,6 @@
 # Indian Stray Animal Detection
 
-###  YOLO_V5 🌟, Custom Dataset :books:, REST API 🚀, Heroku Cloud :cloud:
+###  YOLO_V5 🌟, Custom Dataset :books:, REST API 🚀, Heroku Cloud :partly_sunny:
 
 ![Github License](https://img.shields.io/aur/license/android-studio)
 ![Code Coverage](https://img.shields.io/badge/coverage-80%25-green)
