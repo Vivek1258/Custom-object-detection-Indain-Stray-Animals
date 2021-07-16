@@ -1,8 +1,8 @@
 # Indian Stray Animal Detection
 
-###  YOLO_V5 🌟, Custom Dataset :books: , 
+### End to End | YOLO_V5 | Custom Dataset | REST API  
 
-![Github License](https://img.shields.io/aur/license/android-studio)
+[![License: FDL 1.3](https://img.shields.io/badge/License-FDL%20v1.3-blue.svg)](https://www.gnu.org/licenses/fdl-1.3)
 ![Code Coverage](https://img.shields.io/badge/coverage-80%25-green)
 ![python Version](https://img.shields.io/pypi/pyversions/Django)
  
