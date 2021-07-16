@@ -21,7 +21,7 @@
 
 ## Project Overview
 
-In this project, I have developed and deployed  a custom object detection model that can be used to detect stray animals (cow and dogs ). The dataset is created by taking custom images from google image search. The Machine Learning Model is developed, trained, and deployed(as a REST API ) on Heroku Cloud using Python-Flask. The client application can make 
+In this project, I have developed and deployed  a custom object detection model that can be used to detect stray animals (cow and dogs ). The dataset is created by taking custom images from google image search. The Machine Learning Model is developed, trained, and deployed(as a REST API ) on Heroku Cloud using Python-Flask.  
 
 ## Output
 
@@ -29,16 +29,23 @@ In this project, I have developed and deployed  a custom object detection model 
 
 ![demo](/images/output.gif)
 
-used video source : [wildfilmsindia](https://www.youtube.com/watch?v=pit4FU2lxZQ&t=52s)
+video used for inference source : [wildfilmsindia](https://www.youtube.com/watch?v=pit4FU2lxZQ&t=52s)
 
 ### Deployed API 
 
 ![image](https://user-images.githubusercontent.com/53163419/120688561-d1f21400-c4c0-11eb-9917-cb29a0f2d059.png)
 
-used image source : [Getty Images](https://media.gettyimages.com/photos/indian-domestic-stray-animals-picture-id1082294270?s=2048x2048)
+Image used for inference source : [Getty Images](https://media.gettyimages.com/photos/indian-domestic-stray-animals-picture-id1082294270?s=2048x2048)
 
 ## Algothrim
 
+YOLO an acronym for 'You only look once', is an object detection algorithm that divides images into a grid system. Each cell in the grid is responsible for detecting objects within itself.
+
+YOLO algorithm is an algorithm based on regression, instead of selecting the interesting part of an Image, it predicts classes and bounding boxes for the whole image in one run of the Algorithm.
+ 
+YOLO is one of the most famous object detection algorithms due to its speed and accuracy.
+
+[YOLO_V5 Documentation](https://docs.ultralytics.com/)
 
 ## DataSet
 
