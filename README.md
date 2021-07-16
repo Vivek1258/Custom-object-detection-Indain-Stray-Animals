@@ -58,7 +58,7 @@ Various images of cows and dogs are collected from Google Image search under [cr
 
 #### YOLO format:   one *.txt file per image (if no objects in image, no *.txt file is required). 
 
-### The *.txt file specifications are:
+#### The *.txt file specifications are:
 
 - One row per object
 - Each row is class x_center y_center width height format.
